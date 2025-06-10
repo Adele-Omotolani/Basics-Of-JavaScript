@@ -33,8 +33,8 @@
 // forEach iterate on each element
 
 //object.keys returns all the keys in an object
-//  object.freeze u can delte add or reassign
-//  object.seal u can delte add but can reassign
+//  object.freeze u can't delte add or reassign
+//  object.seal u can't delte add but can reassign
 
 //object.assign u can assign a new value to a key in an existing object and add it to an existing object
 
